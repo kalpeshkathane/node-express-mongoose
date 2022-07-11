@@ -9,9 +9,9 @@ Basic CRUD API with NodeJS ExpressJS and MongoDB
 
 # --- Technologies Used ---
 
-- NodeJs
-- ExpressJs
-- Mongo Db
+- Node Js
+- Express Js
+- Mongoose
 
 # CRUD API:
 
